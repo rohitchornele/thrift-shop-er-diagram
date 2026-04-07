@@ -1,4 +1,4 @@
-# Thrift shop er diagram
+# Fitness Influencer Coaching Platform ER Diagram
 
 
 ## Ereser link :
