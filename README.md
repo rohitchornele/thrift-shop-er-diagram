@@ -6,4 +6,4 @@ https://app.eraser.io/workspace/TMhEdtp0N8YyhYje8c1k?origin=share&diagram=RlORpL
 
 ### ER Diagram for Clinic Appointment and Diagnostics Platform
 
-![alt text](<Comic-Con Parking System ER Diagram.png>)
+![alt text](<Clinic Appointment and Diagnostics Platform.png>)
