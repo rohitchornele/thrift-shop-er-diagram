@@ -1,9 +1,9 @@
-# Clinic Appointment and Diagnostics Platform ER Diagram ER Diagram
+# Comic-Con Parking System ER Diagram
 
 ## Ereser link: 
 
-https://app.eraser.io/workspace/TMhEdtp0N8YyhYje8c1k?origin=share&diagram=BhDI2yqimm7IBiup2rv_U
+https://app.eraser.io/workspace/TMhEdtp0N8YyhYje8c1k?origin=share&diagram=RlORpLmJFYmJwUUhJPg4a
 
 ### ER Diagram for Clinic Appointment and Diagnostics Platform
 
-![alt text](<Clinic Appointment and Diagnostics Platform ER Diagram.png>)
+![alt text](<Comic-Con Parking System ER Diagram.png>)
