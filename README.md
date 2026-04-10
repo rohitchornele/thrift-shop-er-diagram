@@ -1,9 +1,9 @@
-# Comic-Con Parking System ER Diagram
+# Smart Elevator Control System ER Diagram
 
-## Ereser link: 
+## Ereser link :
 
-https://app.eraser.io/workspace/TMhEdtp0N8YyhYje8c1k?origin=share&diagram=RlORpLmJFYmJwUUhJPg4a
+https://app.eraser.io/workspace/TMhEdtp0N8YyhYje8c1k?origin=share&diagram=cdYe9lLPfps_u3IlUy8ny
 
-### ER Diagram for Clinic Appointment and Diagnostics Platform
+### ER Diagram for Smart Elevator Control System
 
-![alt text](<Clinic Appointment and Diagnostics Platform.png>)
+![alt text](<Smart Elevator Control ER Diagram.png>)
