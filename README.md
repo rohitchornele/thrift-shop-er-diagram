@@ -1,3 +1,5 @@
+## Note : If you could not found the DB design in root folder, please check the dedicated folder for each assignment
+
 # Smart Elevator Control System ER Diagram
 
 ## Ereser link :
